@@ -1,5 +1,5 @@
-- ### Check out my blog: https://longnguyenhuynh.github.io/
-
+ <!-- ### Check out my blog: https://longnguyenhuynh.github.io/
+-->
 <!--
 **longnguyenhuynh/longnguyenhuynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
